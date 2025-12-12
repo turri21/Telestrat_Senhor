@@ -1,3 +1,8 @@
+-=(TeleStrat_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # [Oric Telestrat](https://fr.wikipedia.org/wiki/Oric_Telestrat) for MiSTer FPGA
 
 
@@ -79,4 +84,5 @@ TELEASS        | Telestrat mode. TELMON,HYPERBASIC and TELEASS
 TELEFORTH      | Telestrat mode. TELMON ant TELEFORTH
 TELEMATIC      | Minitel server
 STRATORIC-X.X  | Mode ATMOS with disk modes. (STRATORIC+ATMOS ROM+ORIC1 ROM
+
 
